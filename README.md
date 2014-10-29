@@ -1,2 +1,2 @@
-mygithubpage
+Notifyr Homepage
 ============
